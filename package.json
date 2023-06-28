@@ -2,22 +2,22 @@
   "name": "pure_html-scss-parcel_template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://voronevska.github.io/pure_html-scss-parcel",
+  "homepage": "https://voronevska.github.io/pure_html-scss-parcel_template",
   "scripts": {
     "start": "parcel src/*.html --open",
-    "build": "parcel build src/*.html --public-url /pure_html-scss-parcel/",
+    "build": "parcel build src/*.html --public-url /pure_html-scss-parcel_template/",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/voronevska/pure_html-scss-parcel.git"
+    "url": "git+https://github.com/voronevska/pure_html-scss-parcel_template.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/voronevska/pure_html-scss-parcel/issues"
+    "url": "https://github.com/voronevska/pure_html-scss-parcel_template/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
